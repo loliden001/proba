@@ -26,6 +26,7 @@ public class Hauteskundeak {
 		h2012.gehituMahaia("Donostia");
 		h2012.gehituMahaia("Tolosa");
 		h2012.gehituMahaia("Juanan Pereira");
+		System.out.println("Zure id behar dugu berriz:");
 		System.out.println(h2012);
 
 	}
